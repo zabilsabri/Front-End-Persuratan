@@ -168,7 +168,7 @@
                     Surat Keterangan Hilang dari Kepolisian Bagi yang Hilang KTP-nya
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end disabled" href="#" role="button" aria-disabled="true">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6">
@@ -312,7 +312,7 @@
                     Fotocopy KTP Kepala Keluarga dan Anggota Keluarga
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end disabled" href="#" role="button" aria-disabled="true">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6 mt-5">
@@ -462,7 +462,7 @@
                     Fotocopy Buku Nikah Orang Tua
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end disabled" href="#" role="button" aria-disabled="true">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6 mt-5">
@@ -606,7 +606,7 @@
                     Fotocopy Kartu Tanda Penduduk (KTP)
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end disabled" href="#" role="button" aria-disabled="true">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6 mt-5">
@@ -750,7 +750,7 @@
                     Fotocopy Kartu Tanda Penduduk (KTP) dan Kartu Keluarga (KK)
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end" href="{{ route('surat3') }}" role="button">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6 mt-5">
@@ -906,7 +906,7 @@
                     Akte Kepemilikan (Hibah/Waris Sertifikat)
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end disabled" href="#" role="button" aria-disabled="true">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6 mt-5">
@@ -1050,7 +1050,7 @@
                     Tanda Lunas PBB Tahun Berjalan (SPPT)
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end" href="{{ route('surat7') }}" role="button">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6 mt-5">
@@ -1188,7 +1188,7 @@
                     Fotocopy KTP dan KK
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end disabled" href="#" role="button" aria-disabled="true">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6 mt-5">
@@ -1326,7 +1326,7 @@
                     Fotocopy Kartu Tanda Penduduk (KTP) dan Kartu Keluarga (KK)
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end disabled" href="#" role="button" aria-disabled="true">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6 mt-5">
@@ -1470,7 +1470,7 @@
                     Tanda lunas PBB Tahun Berjalan (SPPT)
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end disabled" href="#" role="button" aria-disabled="true">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6 mt-5">
@@ -1632,7 +1632,7 @@
                     Surat Kematian atau keputusan pengadilan agama apabila yang menikah berstatus janda atau duda
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end disabled" href="#" role="button" aria-disabled="true">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6 mt-5">
@@ -1770,7 +1770,7 @@
                     Fotocopy Kartu Tanda Penduduk (KTP) dan Kartu Keluarga (KK)
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end" href="{{ route('surat12') }}" role="button">Mulai</a>
         </div>
     </div>
     <div class=" surat col-md-6 mt-5">
@@ -1908,7 +1908,7 @@
                     Fotocopy Kartu Tanda Penduduk (KTP) dan Kartu Keluarga (KK)
                 </p>
             </div>
-            <a class="btn btn-success float-end" href="#" role="button">Mulai</a>
+            <a class="btn btn-success float-end" href="{{ route('surat13') }}" role="button">Mulai</a>
         </div>
     </div>
 </div>
